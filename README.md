@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>AI Product Dashboard Backend</title>
-</head>
 <body>
 
 <h1>AI Product Dashboard Backend</h1>

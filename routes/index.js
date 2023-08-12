@@ -7,7 +7,7 @@ const mainController = require('../controller/main');
 //metrics
 router.get('/api/metrics', mainController.metrics);
 
-//predictions endpoint
+//predictions
 router.get('/api/predictions', mainController.predictions);
 
 router.get('/', (req, res) => {
